@@ -1,5 +1,5 @@
 # C# Learning Roadmap and Exercises
-
+<img src="https://mono.software/2018/02/23/c-tips/header.jpg" >
 Welcome to the C# Learning Repository! 🚀 This repository is designed to guide you through your C# learning journey, providing a roadmap, code examples, and exercises. Whether you're a beginner or looking to enhance your C# skills, you're in the right place.
 
 ## Table of Contents
