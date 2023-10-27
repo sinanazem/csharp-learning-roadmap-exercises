@@ -81,3 +81,7 @@ We welcome contributions! If you have additional exercises, code improvements, o
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 Happy coding! 🚀
+
+<hr>
+
+
