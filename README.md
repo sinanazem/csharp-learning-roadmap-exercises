@@ -1,6 +1,6 @@
 # C# Learning Roadmap and Exercises
 Welcome to the C# Learning Repository! 🚀 This repository is designed to guide you through your C# learning journey, providing a roadmap, code examples, and exercises. Whether you're a beginner or looking to enhance your C# skills, you're in the right place.
-
+<img src="https://img-c.udemycdn.com/course/750x422/3528618_6b31_2.jpg">
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Roadmap](#roadmap)
