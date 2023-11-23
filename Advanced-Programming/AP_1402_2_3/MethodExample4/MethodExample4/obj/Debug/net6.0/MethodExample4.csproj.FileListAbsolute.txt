@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\bin\Debug\net6.0\MethodExample4.exe
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\bin\Debug\net6.0\MethodExample4.deps.json
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\bin\Debug\net6.0\MethodExample4.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\bin\Debug\net6.0\MethodExample4.dll
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\bin\Debug\net6.0\MethodExample4.pdb
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.dll
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\refint\MethodExample4.dll
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.pdb
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\MethodExample4.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\MethodExample4\MethodExample4\obj\Debug\net6.0\ref\MethodExample4.dll
