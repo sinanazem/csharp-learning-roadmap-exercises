@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\bin\Debug\net6.0\Practice.exe
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\bin\Debug\net6.0\Practice.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\bin\Debug\net6.0\Practice.pdb
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.pdb
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice\Practice\obj\Debug\net6.0\ref\Practice.dll

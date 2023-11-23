@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\bin\Debug\net6.0\Practice1.exe
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\bin\Debug\net6.0\Practice1.deps.json
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\bin\Debug\net6.0\Practice1.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\bin\Debug\net6.0\Practice1.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\bin\Debug\net6.0\Practice1.pdb
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\refint\Practice1.dll
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.pdb
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\Practice1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\Practice1\Practice1\obj\Debug\net6.0\ref\Practice1.dll
