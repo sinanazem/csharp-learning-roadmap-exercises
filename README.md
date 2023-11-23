@@ -1,5 +1,5 @@
 
-<img src="https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png">
+<img src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17155736/cshap-MeetingOur-C-Development.png">
 
 # C# Learning Roadmap and Exercises
 
