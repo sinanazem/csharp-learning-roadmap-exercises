@@ -1,5 +1,5 @@
 <div>
-    <img src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17155736/cshap-MeetingOur-C-Development.png" alt="Nobel Prize" width="450" align="left" hspace="10">
+    <img src="https://media.enlabsoftware.com/wp-content/uploads/2022/12/17155736/cshap-MeetingOur-C-Development.png" alt="Nobel Prize" width="350" align="left" hspace="10">
     <h1>C# Learning Roadmap and Exercises</h1>
 </div>
 
