@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MathFormula3\MathFormula3\bin\Debug\net6.0\MathFormula3.exe
+C:\Users\user\source\repos\MathFormula3\MathFormula3\bin\Debug\net6.0\MathFormula3.deps.json
+C:\Users\user\source\repos\MathFormula3\MathFormula3\bin\Debug\net6.0\MathFormula3.runtimeconfig.json
+C:\Users\user\source\repos\MathFormula3\MathFormula3\bin\Debug\net6.0\MathFormula3.dll
+C:\Users\user\source\repos\MathFormula3\MathFormula3\bin\Debug\net6.0\MathFormula3.pdb
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.AssemblyInfo.cs
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.dll
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\refint\MathFormula3.dll
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.pdb
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\MathFormula3.genruntimeconfig.cache
+C:\Users\user\source\repos\MathFormula3\MathFormula3\obj\Debug\net6.0\ref\MathFormula3.dll
