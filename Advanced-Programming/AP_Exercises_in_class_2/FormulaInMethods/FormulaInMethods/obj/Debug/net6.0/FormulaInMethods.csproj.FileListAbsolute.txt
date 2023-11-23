@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\bin\Debug\net6.0\FormulaInMethods.exe
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\bin\Debug\net6.0\FormulaInMethods.deps.json
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\bin\Debug\net6.0\FormulaInMethods.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\bin\Debug\net6.0\FormulaInMethods.dll
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\bin\Debug\net6.0\FormulaInMethods.pdb
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.dll
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\refint\FormulaInMethods.dll
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.pdb
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\FormulaInMethods.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\FormulaInMethods\FormulaInMethods\obj\Debug\net6.0\ref\FormulaInMethods.dll
