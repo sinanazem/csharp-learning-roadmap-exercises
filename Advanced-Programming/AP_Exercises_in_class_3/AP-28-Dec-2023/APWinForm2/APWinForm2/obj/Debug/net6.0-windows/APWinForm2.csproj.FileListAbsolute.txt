@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\bin\Debug\net6.0-windows\APWinForm2.exe
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\bin\Debug\net6.0-windows\APWinForm2.deps.json
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\bin\Debug\net6.0-windows\APWinForm2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\bin\Debug\net6.0-windows\APWinForm2.dll
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\bin\Debug\net6.0-windows\APWinForm2.pdb
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.dll
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\refint\APWinForm2.dll
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.pdb
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\APWinForm2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\APWinForm2\APWinForm2\obj\Debug\net6.0-windows\ref\APWinForm2.dll

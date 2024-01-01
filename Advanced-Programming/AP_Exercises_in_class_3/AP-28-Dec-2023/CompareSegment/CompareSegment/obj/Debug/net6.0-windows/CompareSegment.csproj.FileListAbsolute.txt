@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\bin\Debug\net6.0-windows\CompareSegment.exe
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\bin\Debug\net6.0-windows\CompareSegment.deps.json
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\bin\Debug\net6.0-windows\CompareSegment.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\bin\Debug\net6.0-windows\CompareSegment.dll
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\bin\Debug\net6.0-windows\CompareSegment.pdb
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.dll
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\refint\CompareSegment.dll
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.pdb
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\CompareSegment.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\CompareSegment\CompareSegment\obj\Debug\net6.0-windows\ref\CompareSegment.dll

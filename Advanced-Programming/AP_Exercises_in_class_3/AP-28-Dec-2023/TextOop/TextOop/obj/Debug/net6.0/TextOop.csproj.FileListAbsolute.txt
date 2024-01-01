@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\bin\Debug\net6.0\TextOop.exe
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\bin\Debug\net6.0\TextOop.deps.json
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\bin\Debug\net6.0\TextOop.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\bin\Debug\net6.0\TextOop.dll
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\bin\Debug\net6.0\TextOop.pdb
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.dll
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\refint\TextOop.dll
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.pdb
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\TextOop.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\TextOop\TextOop\obj\Debug\net6.0\ref\TextOop.dll
