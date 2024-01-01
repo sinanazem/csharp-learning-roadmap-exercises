@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.exe
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.deps.json
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.pdb
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\refint\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.pdb
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\ref\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.exe
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\bin\Debug\net6.0-windows\SwitchCaseCalculator.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.Form1.resources
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\refint\SwitchCaseCalculator.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\SwitchCaseCalculator.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\SwitchCaseCalculator\SwitchCaseCalculator\obj\Debug\net6.0-windows\ref\SwitchCaseCalculator.dll

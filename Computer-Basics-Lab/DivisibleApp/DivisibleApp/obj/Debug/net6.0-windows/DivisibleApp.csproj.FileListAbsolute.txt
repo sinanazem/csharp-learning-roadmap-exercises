@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.exe
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\refint\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\ref\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.exe
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\bin\Debug\net6.0-windows\DivisibleApp.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.Form1.resources
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\refint\DivisibleApp.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\DivisibleApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\DivisibleApp\DivisibleApp\obj\Debug\net6.0-windows\ref\DivisibleApp.dll

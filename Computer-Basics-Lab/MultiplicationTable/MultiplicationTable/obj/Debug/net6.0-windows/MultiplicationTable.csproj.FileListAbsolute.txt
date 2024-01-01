@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.exe
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.deps.json
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\refint\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\ref\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.exe
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.Form1.resources
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\refint\MultiplicationTable.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\ref\MultiplicationTable.dll

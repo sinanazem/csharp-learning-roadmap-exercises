@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.exe
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.deps.json
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.pdb
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\refint\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.pdb
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\ref\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.exe
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\bin\Debug\net6.0-windows\CheckScoresTryCatch.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.Form1.resources
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\refint\CheckScoresTryCatch.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\CheckScoresTryCatch.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\CheckScoresTryCatch\CheckScoresTryCatch\obj\Debug\net6.0-windows\ref\CheckScoresTryCatch.dll

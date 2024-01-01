@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.exe
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.deps.json
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.pdb
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.Form1.resources
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\refint\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.pdb
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\BestBooks\BestBooks\obj\Debug\net6.0-windows\ref\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.exe
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.deps.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\bin\Debug\net6.0-windows\BestBooks.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.Form1.resources
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\refint\BestBooks.dll
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.pdb
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\BestBooks.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Computer Basic Lab\BestBooks\BestBooks\obj\Debug\net6.0-windows\ref\BestBooks.dll
