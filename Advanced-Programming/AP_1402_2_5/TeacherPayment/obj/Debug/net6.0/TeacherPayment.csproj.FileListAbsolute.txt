@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\bin\Debug\net6.0\TeacherPayment.exe
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\bin\Debug\net6.0\TeacherPayment.deps.json
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\bin\Debug\net6.0\TeacherPayment.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\bin\Debug\net6.0\TeacherPayment.dll
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\bin\Debug\net6.0\TeacherPayment.pdb
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.dll
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\refint\TeacherPayment.dll
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.pdb
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\TeacherPayment.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\TeacherPayment\obj\Debug\net6.0\ref\TeacherPayment.dll
