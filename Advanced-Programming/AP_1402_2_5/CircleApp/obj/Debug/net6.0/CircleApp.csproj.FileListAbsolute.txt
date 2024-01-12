@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\bin\Debug\net6.0\CircleApp.exe
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\bin\Debug\net6.0\CircleApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\bin\Debug\net6.0\CircleApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\bin\Debug\net6.0\CircleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\bin\Debug\net6.0\CircleApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\refint\CircleApp.dll
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\CircleApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\CircleApp\obj\Debug\net6.0\ref\CircleApp.dll
