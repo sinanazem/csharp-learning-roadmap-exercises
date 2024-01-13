@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\bin\Debug\net6.0\GravityApp.exe
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\bin\Debug\net6.0\GravityApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\bin\Debug\net6.0\GravityApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\bin\Debug\net6.0\GravityApp.dll
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\bin\Debug\net6.0\GravityApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.dll
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\refint\GravityApp.dll
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\GravityApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\GravityApp\obj\Debug\net6.0\ref\GravityApp.dll
