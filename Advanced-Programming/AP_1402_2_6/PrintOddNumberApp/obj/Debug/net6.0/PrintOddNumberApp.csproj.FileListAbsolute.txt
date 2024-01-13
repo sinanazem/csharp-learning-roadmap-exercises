@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\bin\Debug\net6.0\PrintOddNumberApp.exe
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\bin\Debug\net6.0\PrintOddNumberApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\bin\Debug\net6.0\PrintOddNumberApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\bin\Debug\net6.0\PrintOddNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\bin\Debug\net6.0\PrintOddNumberApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\refint\PrintOddNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\PrintOddNumberApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\PrintOddNumberApp\obj\Debug\net6.0\ref\PrintOddNumberApp.dll
