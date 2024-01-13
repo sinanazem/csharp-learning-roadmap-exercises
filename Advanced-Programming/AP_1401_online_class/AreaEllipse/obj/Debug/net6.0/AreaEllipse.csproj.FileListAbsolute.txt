@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\bin\Debug\net6.0\AreaEllipse.exe
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\bin\Debug\net6.0\AreaEllipse.deps.json
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\bin\Debug\net6.0\AreaEllipse.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\bin\Debug\net6.0\AreaEllipse.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\bin\Debug\net6.0\AreaEllipse.pdb
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\refint\AreaEllipse.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.pdb
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\AreaEllipse.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaEllipse\obj\Debug\net6.0\ref\AreaEllipse.dll

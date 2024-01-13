@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaEllipse", "AreaEllipse.csproj", "{7C20440F-449E-4B76-9BC7-04F7E51540D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C20440F-449E-4B76-9BC7-04F7E51540D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C20440F-449E-4B76-9BC7-04F7E51540D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C20440F-449E-4B76-9BC7-04F7E51540D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C20440F-449E-4B76-9BC7-04F7E51540D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227BD6A0-AAE6-4BD7-B224-9B23019BC192}
+	EndGlobalSection
+EndGlobal
