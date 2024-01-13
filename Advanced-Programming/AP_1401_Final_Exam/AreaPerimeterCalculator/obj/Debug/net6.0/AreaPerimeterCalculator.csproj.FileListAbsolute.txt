@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\bin\Debug\net6.0\AreaPerimeterCalculator.exe
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\bin\Debug\net6.0\AreaPerimeterCalculator.deps.json
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\bin\Debug\net6.0\AreaPerimeterCalculator.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\bin\Debug\net6.0\AreaPerimeterCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\bin\Debug\net6.0\AreaPerimeterCalculator.pdb
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\refint\AreaPerimeterCalculator.dll
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.pdb
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\AreaPerimeterCalculator.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\AreaPerimeterCalculator\obj\Debug\net6.0\ref\AreaPerimeterCalculator.dll

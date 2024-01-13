@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\bin\Debug\net6.0\TimeCheckApp.exe
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\bin\Debug\net6.0\TimeCheckApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\bin\Debug\net6.0\TimeCheckApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\bin\Debug\net6.0\TimeCheckApp.dll
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\bin\Debug\net6.0\TimeCheckApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.dll
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\refint\TimeCheckApp.dll
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\TimeCheckApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\TimeCheckApp\obj\Debug\net6.0\ref\TimeCheckApp.dll

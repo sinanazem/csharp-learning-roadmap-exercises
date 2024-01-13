@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\bin\Debug\net6.0\StudentStatusApp.exe
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\bin\Debug\net6.0\StudentStatusApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\bin\Debug\net6.0\StudentStatusApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\bin\Debug\net6.0\StudentStatusApp.dll
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\bin\Debug\net6.0\StudentStatusApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.dll
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\refint\StudentStatusApp.dll
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\StudentStatusApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\StudentStatusApp\obj\Debug\net6.0\ref\StudentStatusApp.dll

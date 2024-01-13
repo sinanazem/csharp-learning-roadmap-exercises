@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\bin\Debug\net6.0\SphereAreaApp.exe
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\bin\Debug\net6.0\SphereAreaApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\bin\Debug\net6.0\SphereAreaApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\bin\Debug\net6.0\SphereAreaApp.dll
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\bin\Debug\net6.0\SphereAreaApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.dll
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\refint\SphereAreaApp.dll
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\SphereAreaApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\SphereAreaApp\obj\Debug\net6.0\ref\SphereAreaApp.dll
