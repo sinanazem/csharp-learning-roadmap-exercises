@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\bin\Debug\net6.0\DaysOfMonthApp.exe
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\bin\Debug\net6.0\DaysOfMonthApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\bin\Debug\net6.0\DaysOfMonthApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\bin\Debug\net6.0\DaysOfMonthApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\bin\Debug\net6.0\DaysOfMonthApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\refint\DaysOfMonthApp.dll
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\DaysOfMonthApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\DaysOfMonthApp\obj\Debug\net6.0\ref\DaysOfMonthApp.dll

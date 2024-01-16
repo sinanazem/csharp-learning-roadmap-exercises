@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\bin\Debug\net6.0\ReverseDigitNumberApp.exe
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\bin\Debug\net6.0\ReverseDigitNumberApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\bin\Debug\net6.0\ReverseDigitNumberApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\bin\Debug\net6.0\ReverseDigitNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\bin\Debug\net6.0\ReverseDigitNumberApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\refint\ReverseDigitNumberApp.dll
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ReverseDigitNumberApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\ReverseDigitNumberApp\obj\Debug\net6.0\ref\ReverseDigitNumberApp.dll

@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\bin\Debug\net6.0\BmmKmm.exe
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\bin\Debug\net6.0\BmmKmm.deps.json
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\bin\Debug\net6.0\BmmKmm.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\bin\Debug\net6.0\BmmKmm.dll
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\bin\Debug\net6.0\BmmKmm.pdb
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.dll
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\refint\BmmKmm.dll
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.pdb
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\BmmKmm.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\BmmKmm\obj\Debug\net6.0\ref\BmmKmm.dll

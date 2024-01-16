@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\bin\Debug\net6.0\PerfectNumber.exe
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\bin\Debug\net6.0\PerfectNumber.deps.json
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\bin\Debug\net6.0\PerfectNumber.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\bin\Debug\net6.0\PerfectNumber.dll
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\bin\Debug\net6.0\PerfectNumber.pdb
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.dll
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\refint\PerfectNumber.dll
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.pdb
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\PerfectNumber.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\PerfectNumber\obj\Debug\net6.0\ref\PerfectNumber.dll

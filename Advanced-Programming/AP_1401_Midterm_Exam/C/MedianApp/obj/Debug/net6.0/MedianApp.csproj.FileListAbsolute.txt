@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\bin\Debug\net6.0\MedianApp.exe
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\bin\Debug\net6.0\MedianApp.deps.json
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\bin\Debug\net6.0\MedianApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\bin\Debug\net6.0\MedianApp.dll
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\bin\Debug\net6.0\MedianApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.dll
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\refint\MedianApp.dll
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.pdb
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\MedianApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\AP\MedianApp\obj\Debug\net6.0\ref\MedianApp.dll
