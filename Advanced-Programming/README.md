@@ -1,8 +1,10 @@
-# Advanced Programming
-<img src="https://www.pngmart.com/files/22/Programmer-PNG-Photos.png">
+<div>
+    <img src="https://www.pngmart.com/files/22/Programmer-PNG-Photos.png" alt="Nobel Prize" width="450" align="left" hspace="10">
+    <h1>Advanced Programming</h1>
+</div>
 
 Welcome to the Advanced Programming repository! This repository contains my coursework and exercises for the "Advanced Programming" course at IAU.
-
+<br><br><br><br><br><br><br><br><br>
 ## Homework
 
 The homework assignments are stored in the "Homework" folder. Each file is named according to the following pattern: `AP_1402_2_X` (where X is a number between 1 and 6).
