@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Spam\\Spam.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Advanced-Programming\\AP_1402_2_Final_Projects\\Spam\\Spam.csproj",
       "projectName": "Spam",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Spam\\Spam.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Advanced-Programming\\AP_1402_2_Final_Projects\\Spam\\Spam.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Spam\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\csharp-learning-roadmap-exercises\\Advanced-Programming\\AP_1402_2_Final_Projects\\Spam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

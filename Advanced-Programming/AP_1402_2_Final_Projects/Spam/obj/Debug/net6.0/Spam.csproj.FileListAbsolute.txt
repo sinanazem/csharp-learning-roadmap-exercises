@@ -12,3 +12,17 @@ C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Spam\obj\Debug\
 C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Spam\obj\Debug\net6.0\Spam.pdb
 C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Spam\obj\Debug\net6.0\Spam.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Spam\obj\Debug\net6.0\ref\Spam.dll
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.dll
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\refint\Spam.dll
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.pdb
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\bin\Debug\net6.0\Spam.exe
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\bin\Debug\net6.0\Spam.deps.json
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\bin\Debug\net6.0\Spam.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\bin\Debug\net6.0\Spam.dll
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\bin\Debug\net6.0\Spam.pdb
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\Spam.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\csharp-learning-roadmap-exercises\Advanced-Programming\AP_1402_2_Final_Projects\Spam\obj\Debug\net6.0\ref\Spam.dll

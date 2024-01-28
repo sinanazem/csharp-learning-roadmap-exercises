@@ -4,6 +4,32 @@ using System.Text.RegularExpressions;
 
 class SpamDetector
 {
+    private string message;
+    public string Message
+    {
+        get { return message; }
+        set { message = value; }
+    }
+    public SpamDetector() { }
+    public SpamDetector(string inputMessage)
+    {
+        message = inputMessage;
+    }
+
+    public int CountSpam()
+    {
+        string[] words = message.Split(new char[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries);
+        int spamWordCount = 0;
+
+        foreach (string word in words)
+        {
+            if (IsSpam(word))
+            {
+                spamWordCount++;
+            }
+        }
+        return spamWordCount;
+    }
     public bool IsSpam(string word)
     {
         
@@ -66,25 +92,11 @@ class Program
 {
     static void Main()
     {
-        SpamDetector spamDetector = new SpamDetector();
-
         Console.WriteLine("Please Enter your message: ");
         string message = Console.ReadLine();
 
-        string[] words = message.Split(new char[] { ' ', '\t', '\n', '\r', '.', ',', ';', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
-        int spamWordCount = 0;
+        SpamDetector spamDetector = new SpamDetector(message);
 
-        foreach (string word in words)
-        {
-            if (spamDetector.IsSpam(word))
-            {
-                spamWordCount++;
-            }
-        }
-
-        Console.WriteLine(spamWordCount.ToString());
-
-
-
+        Console.WriteLine("Number of Spam in your message: " + spamDetector.CountSpam());
     }
 }
